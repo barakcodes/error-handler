@@ -1,0 +1,17 @@
+{
+  "name": "error-handler",
+  "version": "0.0.1",
+  "description": "A simple custom error object",
+  "main": "app.ts",
+  "author": "Barak Codes",
+  "license": "MIT",
+  "dependencies": {
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.13",
+    "tslint": "^6.1.2",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^3.9.5"
+  }
+}
