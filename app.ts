@@ -24,6 +24,8 @@ export class BaseError extends Error {
 
 //free to extend the BaseError
 // the api error
+
+
 export class APIError extends BaseError {
   constructor(
     name: string,
