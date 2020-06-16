@@ -2,7 +2,7 @@
 
 Managing errors in express can get really messy, really quickly. Making the s
 
-How to use this package:
+### How to use this package:
 Step1: install the package via npm or yarn
 yarn:
 
